@@ -137,6 +137,7 @@
             this.btnArment.TabIndex = 10;
             this.btnArment.Text = "Árajánlat mentése";
             this.btnArment.UseVisualStyleBackColor = true;
+            this.btnArment.Click += new System.EventHandler(this.btnArment_Click);
             // 
             // pbSuti
             // 
