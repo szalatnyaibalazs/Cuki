@@ -57,14 +57,14 @@
             // 
             this.tbAjanlat.Location = new System.Drawing.Point(12, 12);
             this.tbAjanlat.Name = "tbAjanlat";
-            this.tbAjanlat.Size = new System.Drawing.Size(100, 20);
+            this.tbAjanlat.Size = new System.Drawing.Size(209, 20);
             this.tbAjanlat.TabIndex = 0;
             // 
             // tbDij
             // 
             this.tbDij.Location = new System.Drawing.Point(12, 38);
             this.tbDij.Name = "tbDij";
-            this.tbDij.Size = new System.Drawing.Size(100, 20);
+            this.tbDij.Size = new System.Drawing.Size(209, 20);
             this.tbDij.TabIndex = 1;
             // 
             // label1
@@ -80,12 +80,12 @@
             // 
             this.tbDragasuti.Location = new System.Drawing.Point(12, 115);
             this.tbDragasuti.Name = "tbDragasuti";
-            this.tbDragasuti.Size = new System.Drawing.Size(100, 20);
+            this.tbDragasuti.Size = new System.Drawing.Size(247, 20);
             this.tbDragasuti.TabIndex = 3;
             // 
             // tbDragaar
             // 
-            this.tbDragaar.Location = new System.Drawing.Point(118, 115);
+            this.tbDragaar.Location = new System.Drawing.Point(265, 115);
             this.tbDragaar.Name = "tbDragaar";
             this.tbDragaar.Size = new System.Drawing.Size(100, 20);
             this.tbDragaar.TabIndex = 4;
@@ -103,12 +103,12 @@
             // 
             this.tbOlcsosuti.Location = new System.Drawing.Point(12, 154);
             this.tbOlcsosuti.Name = "tbOlcsosuti";
-            this.tbOlcsosuti.Size = new System.Drawing.Size(100, 20);
+            this.tbOlcsosuti.Size = new System.Drawing.Size(247, 20);
             this.tbOlcsosuti.TabIndex = 6;
             // 
             // tbOlcsoar
             // 
-            this.tbOlcsoar.Location = new System.Drawing.Point(118, 154);
+            this.tbOlcsoar.Location = new System.Drawing.Point(265, 150);
             this.tbOlcsoar.Name = "tbOlcsoar";
             this.tbOlcsoar.Size = new System.Drawing.Size(100, 20);
             this.tbOlcsoar.TabIndex = 7;
@@ -126,7 +126,7 @@
             // 
             this.tbSutitipus.Location = new System.Drawing.Point(71, 180);
             this.tbSutitipus.Name = "tbSutitipus";
-            this.tbSutitipus.Size = new System.Drawing.Size(100, 20);
+            this.tbSutitipus.Size = new System.Drawing.Size(188, 20);
             this.tbSutitipus.TabIndex = 9;
             // 
             // btnArment
@@ -141,7 +141,7 @@
             // 
             // pbSuti
             // 
-            this.pbSuti.Location = new System.Drawing.Point(293, 12);
+            this.pbSuti.Location = new System.Drawing.Point(383, 12);
             this.pbSuti.Name = "pbSuti";
             this.pbSuti.Size = new System.Drawing.Size(100, 50);
             this.pbSuti.TabIndex = 11;
@@ -149,15 +149,15 @@
             // 
             // tbSnev
             // 
-            this.tbSnev.Location = new System.Drawing.Point(688, 99);
+            this.tbSnev.Location = new System.Drawing.Point(598, 99);
             this.tbSnev.Name = "tbSnev";
-            this.tbSnev.Size = new System.Drawing.Size(100, 20);
+            this.tbSnev.Size = new System.Drawing.Size(190, 20);
             this.tbSnev.TabIndex = 14;
             // 
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(631, 102);
+            this.label5.Location = new System.Drawing.Point(536, 99);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(52, 13);
             this.label5.TabIndex = 12;
@@ -165,15 +165,15 @@
             // 
             // tbStipus
             // 
-            this.tbStipus.Location = new System.Drawing.Point(688, 154);
+            this.tbStipus.Location = new System.Drawing.Point(598, 154);
             this.tbStipus.Name = "tbStipus";
-            this.tbStipus.Size = new System.Drawing.Size(100, 20);
+            this.tbStipus.Size = new System.Drawing.Size(190, 20);
             this.tbStipus.TabIndex = 17;
             // 
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(631, 157);
+            this.label4.Location = new System.Drawing.Point(536, 154);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(58, 13);
             this.label4.TabIndex = 15;
@@ -181,15 +181,15 @@
             // 
             // tbSegyseg
             // 
-            this.tbSegyseg.Location = new System.Drawing.Point(695, 212);
+            this.tbSegyseg.Location = new System.Drawing.Point(598, 212);
             this.tbSegyseg.Name = "tbSegyseg";
-            this.tbSegyseg.Size = new System.Drawing.Size(100, 20);
+            this.tbSegyseg.Size = new System.Drawing.Size(197, 20);
             this.tbSegyseg.TabIndex = 20;
             // 
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(631, 212);
+            this.label6.Location = new System.Drawing.Point(536, 209);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(42, 13);
             this.label6.TabIndex = 18;
@@ -197,15 +197,15 @@
             // 
             // tbSar
             // 
-            this.tbSar.Location = new System.Drawing.Point(695, 265);
+            this.tbSar.Location = new System.Drawing.Point(598, 265);
             this.tbSar.Name = "tbSar";
-            this.tbSar.Size = new System.Drawing.Size(100, 20);
+            this.tbSar.Size = new System.Drawing.Size(197, 20);
             this.tbSar.TabIndex = 23;
             // 
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(631, 265);
+            this.label7.Location = new System.Drawing.Point(536, 262);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(17, 13);
             this.label7.TabIndex = 21;
@@ -229,6 +229,7 @@
             this.btnFelvetel.TabIndex = 25;
             this.btnFelvetel.Text = "Új süti felvétele";
             this.btnFelvetel.UseVisualStyleBackColor = true;
+            this.btnFelvetel.Click += new System.EventHandler(this.btnFelvetel_Click);
             // 
             // Form1
             // 
