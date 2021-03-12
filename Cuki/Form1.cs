@@ -23,11 +23,11 @@ namespace Cuki
                 sutemenyek.Add(new Sutemeny(a[0],a[1],bool.Parse(a[2]),int.Parse(a[3]),a[4]));
             }
             be.Close();
-            Random();
-            MiniMax();
-            DijazottDb();
-            listaKiiras();
-            statKiiras();
+            Random(); //Balázs
+            MiniMax();//Milán
+            DijazottDb();//Balázs
+            listaKiiras();//Balázs
+            statKiiras();//Ábel
         }
         static List<Sutemeny> sutemenyek = new List<Sutemeny>();
         public void Random()
@@ -99,7 +99,7 @@ namespace Cuki
             }
             ki.Close();
         }
-
+        //Máté
         private void btnArment_Click(object sender, EventArgs e)
         {
             string tipus = tbSutitipus.Text.Trim();
@@ -137,7 +137,7 @@ namespace Cuki
                 }
             }
         }
-
+        //Máté
         private void btnFelvetel_Click(object sender, EventArgs e)
         {
             char[] szamok = new char[] { '0', '1', '2', '3', '4', '5', '6', '7', '8', '9' };
